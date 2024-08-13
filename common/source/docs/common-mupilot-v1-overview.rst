@@ -30,6 +30,16 @@ Product Size
 
 .. image:: https://github.com/MuginUAV/ardupilot_wiki/blob/master/images/Mupilot04.jpg
 
+=====================
+Quick Setup
+=====================
+
+This Diagram shows common connections. 
+
+.. image:: https://github.com/MuginUAV/ardupilot_wiki/blob/master/images/Mupilot05.jpg
+
+
+
 
 
 
