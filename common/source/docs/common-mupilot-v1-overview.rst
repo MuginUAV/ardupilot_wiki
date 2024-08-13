@@ -11,5 +11,9 @@ It is fully compatible with Ardupilot and PX4 firmware, adhering to Fmuv5
 design standard. MuPilot supports a wide range of vehicles,including Copter,Fixed 
 wing,VTOL,Rover,Sub and more. This flight controller is recommended for commercial systems,but is also suitable for academic research and any other use.
 
+Specifications
+=====================
+
+
 
 
