@@ -22,7 +22,7 @@ Specifications
 Where to Buy
 =====================
 
-Order from `here <www.muginuav.com>`__.
+Order from `here <www.muginuav.com/>`__.
 Official retailers are listed `here  <https://www.muginuav.com/contact-us/>`__.
 
 Product Size
