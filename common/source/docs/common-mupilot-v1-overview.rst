@@ -39,6 +39,12 @@ This Diagram shows common connections.
 .. image:: https://github.com/MuginUAV/ardupilot_wiki/blob/master/images/Mupilot05.jpg
 
 
+=====================
+Detailed Manual 
+=====================
+
+Download from `here <www.muginuav.com>`__.
+
 
 
 
