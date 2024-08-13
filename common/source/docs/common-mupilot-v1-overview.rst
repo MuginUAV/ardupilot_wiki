@@ -14,6 +14,8 @@ wing,VTOL,Rover,Sub and more. This flight controller is recommended for commerci
 Specifications
 =====================
 
+.. image:: https://github.com/MuginUAV/ardupilot_wiki/blob/master/images/Mupilot02.jpg
+
 
 
 
