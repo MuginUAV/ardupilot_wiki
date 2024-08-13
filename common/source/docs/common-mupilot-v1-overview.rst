@@ -16,6 +16,8 @@ Specifications
 
 .. image:: https://github.com/MuginUAV/ardupilot_wiki/blob/master/images/Mupilot02.jpg
 
+.. image:: images/Mupilot03.jpg
+
 
 
 
